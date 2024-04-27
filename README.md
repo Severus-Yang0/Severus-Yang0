@@ -2,14 +2,14 @@
 
 I'm Boyu Yang (Severus). I am currently an undergraduate student at Duke Kunshan University, located in Kunshan, Jiangsu, China. I am pursuing a major in Applied Mathematics & Computational Science, with a track in Computer Science.
 
+#### Research and Professional Experience:
+- 💼 I'm a lab assistant at the Precision Health and Medicine Lab at Duke Kunshan University.
+- 📚 I'm preparing for graduate school applications, focusing on research that develops easy-to-use apps for the preliminary diagnosis and treatment assessment of mental health disorders, aiming to improve the lives of individuals with mental health issues.
+
 #### About Me:
 - 🌱 I’m currently learning **Flutter** and **neural networks** as part of my academic and personal development.
 - 👀 I’m interested in **machine learning**, **application development**, and the intersection of the two.
 - 🌟 My English name is **Severus**. Yes, like Professor Snape from Harry Potter – because who doesn't appreciate the depth and complexity of such a character?
-
-#### Research and Professional Experience:
-- 💼 I'm a lab assistant at the Precision Health and Medicine Lab at Duke Kunshan University.
-- 📚 I'm preparing for graduate school applications, focusing on research that develops easy-to-use apps for the preliminary diagnosis and treatment assessment of mental health disorders, aiming to improve the lives of individuals with mental health issues.
 
 #### Skills:
 - **Mobile Application Development**
